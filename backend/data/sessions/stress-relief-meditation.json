@@ -1,0 +1,105 @@
+{
+  "session_info": {
+    "title": "10-Minute Stress Relief Meditation",
+    "duration": "10 minutes",
+    "difficulty": "Beginner",
+    "equipment": ["Comfortable seat or cushion"],
+    "description": "Release tension and find calm with guided mindfulness and breathing techniques"
+  },
+  "preparation": {
+    "environment": "Find a quiet space where you won't be disturbed",
+    "posture": "Comfortable seated position with spine naturally upright",
+    "timing": "Best practiced when feeling overwhelmed or at end of stressful day",
+    "cautions": [
+      "If you feel emotional during practice, that's normal",
+      "No need to force relaxation, simply observe",
+      "If mind wanders frequently, gently return to breath",
+      "Stop if you feel dizzy or uncomfortable"
+    ]
+  },
+  "phases": [
+    {
+      "phase": "Arrival & Settling",
+      "duration": "2 minutes",
+      "purpose": "Transition from external world to inner awareness",
+      "instructions": [
+        "Close your eyes or soften your gaze downward",
+        "Notice your body in contact with your seat and the ground",
+        "Begin to notice your breath without changing it",
+        "Acknowledge any stress or tension without judgment",
+        "Set intention to be present and kind to yourself"
+      ],
+      "guidance": "If your mind immediately jumps to your to-do list, simply notice this and return attention to your body and breath"
+    },
+    {
+      "phase": "Conscious Breathing",
+      "duration": "3 minutes",
+      "purpose": "Activate the relaxation response through controlled breathing",
+      "technique": "4-2-6 Breathing Pattern",
+      "instructions": [
+        "Begin to deepen your breath slightly",
+        "Inhale slowly through your nose for 4 counts",
+        "Hold the breath gently for 2 counts",
+        "Exhale slowly through your mouth for 6 counts",
+        "Continue this rhythm: breathe in (4), hold (2), breathe out (6)",
+        "Let the exhale be a complete release of tension"
+      ],
+      "benefits": "Longer exhales activate parasympathetic nervous system, promoting calm",
+      "modifications": "If counting feels stressful, simply focus on making exhales longer than inhales"
+    },
+    {
+      "phase": "Body Scan Release",
+      "duration": "3 minutes",
+      "purpose": "Systematically release physical tension held in the body",
+      "instructions": [
+        "Bring attention to the very top of your head",
+        "Slowly scan down: forehead, eyes, jaw, neck",
+        "Notice any areas of tightness or tension",
+        "Continue scanning: shoulders, arms, chest, stomach",
+        "Move through hips, thighs, knees, calves, feet",
+        "With each exhale, consciously release any tension you find",
+        "Don't worry if tension returns, simply release again"
+      ],
+      "visualization": "Imagine stress leaving your body like dark clouds dissolving into light",
+      "guidance": "Some areas may hold more tension than others - spend extra time breathing into those spots"
+    },
+    {
+      "phase": "Loving-Kindness for Self",
+      "duration": "1 minute",
+      "purpose": "Cultivate self-compassion and emotional healing",
+      "instructions": [
+        "Place one hand on your heart",
+        "Silently offer yourself these phrases:",
+        "'May I be peaceful and calm'",
+        "'May I be free from stress and worry'",
+        "'May I be kind to myself'",
+        "'May I trust in my ability to handle whatever comes'"
+      ],
+      "benefits": "Self-compassion reduces stress hormones and builds emotional resilience"
+    },
+    {
+      "phase": "Integration & Closing",
+      "duration": "1 minute",
+      "purpose": "Seal the practice and prepare to re-engage with your day",
+      "instructions": [
+        "Return to natural breathing",
+        "Notice how your body feels now compared to when you started",
+        "Set intention to carry this sense of calm with you",
+        "Know you can return to your breath anytime you need peace",
+        "When ready, gently wiggle fingers and toes",
+        "Slowly open your eyes and return to your day"
+      ]
+    }
+  ],
+  "closing_practices": {
+    "affirmation": "I am calm, centered, and at peace",
+    "emergency_technique": "Throughout your day, use the 4-2-6 breath pattern for instant stress relief",
+    "daily_integration": "Set phone reminders to check in with your breath every few hours"
+  },
+  "daily_tips": [
+    "Practice daily for cumulative stress-reduction benefits",
+    "Use this meditation anytime you feel overwhelmed",
+    "Create a consistent meditation time and space if possible",
+    "Remember: there's no 'perfect' way to meditate, only your way"
+  ]
+}

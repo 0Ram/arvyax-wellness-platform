@@ -1,0 +1,128 @@
+{
+  "session_info": {
+    "title": "Energizing Morning Yoga Flow",
+    "duration": "15 minutes",
+    "difficulty": "Beginner",
+    "equipment": ["Yoga mat"],
+    "description": "Start your day with gentle movement and mindful breathing to energize body and mind"
+  },
+  "preparation": {
+    "space": "Quiet area with enough room to stretch arms wide",
+    "clothing": "Comfortable, stretchy clothes",
+    "mindset": "Set intention for your day ahead",
+    "cautions": [
+      "Move slowly and listen to your body",
+      "Don't force any poses",
+      "Modify as needed for your flexibility level",
+      "Stop if you feel pain or dizziness"
+    ]
+  },
+  "warm_up": {
+    "duration": "3 minutes",
+    "purpose": "Gently prepare the body for movement",
+    "poses": [
+      {
+        "name": "Seated Mountain Pose",
+        "duration": "1 minute",
+        "instructions": "Sit cross-legged with spine tall, hands resting on knees. Close eyes and take 5 deep breaths, feeling your connection to the earth.",
+        "breathing": "Inhale for 4 counts, pause briefly, exhale for 4 counts",
+        "benefits": "Centers the mind, establishes breath awareness"
+      },
+      {
+        "name": "Neck Rolls",
+        "duration": "1 minute",
+        "instructions": "Slowly drop right ear toward right shoulder, roll chin to chest, then left ear to left shoulder. Reverse direction. 3 times each way.",
+        "breathing": "Natural breath, exhale as you roll down",
+        "benefits": "Releases neck tension, improves mobility"
+      },
+      {
+        "name": "Shoulder Rolls",
+        "duration": "1 minute",
+        "instructions": "Roll shoulders up, back, and down in large circles. Feel the shoulder blades moving. 5 times backward, 5 times forward.",
+        "breathing": "Inhale as you lift shoulders, exhale as you release",
+        "benefits": "Loosens shoulder tension, opens chest"
+      }
+    ]
+  },
+  "main_flow": {
+    "duration": "10 minutes",
+    "rounds": 2,
+    "structure": "Complete sequence twice, second round adding variations",
+    "poses": [
+      {
+        "name": "Cat-Cow Pose",
+        "duration": "2 minutes",
+        "instructions": "On hands and knees, arch spine looking up (Cow), then round spine dropping head (Cat). Move slowly with breath.",
+        "breathing": "Inhale to arch (Cow), exhale to round (Cat)",
+        "benefits": "Warms spine, improves flexibility, massages organs",
+        "modifications": "Use forearms instead of hands if wrists hurt"
+      },
+      {
+        "name": "Downward Facing Dog",
+        "duration": "2 minutes",
+        "instructions": "Tuck toes under, lift hips up and back creating inverted V. Press hands firmly down, lengthen spine.",
+        "breathing": "5 deep breaths, focus on lengthening through spine",
+        "benefits": "Strengthens arms and legs, stretches hamstrings, energizes",
+        "modifications": "Bend knees if hamstrings are tight, use blocks under hands"
+      },
+      {
+        "name": "Forward Fold",
+        "duration": "1 minute",
+        "instructions": "Step feet toward hands, hang forward with soft knees. Let arms dangle, gently sway side to side.",
+        "breathing": "Natural breath, feel release with each exhale",
+        "benefits": "Calms nervous system, stretches back and legs",
+        "modifications": "Bend knees generously, hold opposite elbows"
+      },
+      {
+        "name": "Mountain Pose",
+        "duration": "1 minute",
+        "instructions": "Roll up slowly vertebra by vertebra to standing. Stand tall with feet hip-width apart, arms at sides.",
+        "breathing": "3 deep breaths, feeling grounded and centered",
+        "benefits": "Improves posture, creates stability and focus",
+        "alignment": "Equal weight on both feet, crown reaching toward sky"
+      },
+      {
+        "name": "Warrior I",
+        "duration": "2 minutes each side",
+        "instructions": "Step left foot back 3 feet, turn it out 45 degrees. Bend right knee over ankle, arms reach up. Hold, then switch sides.",
+        "breathing": "Strong, steady breaths, breathe into the pose",
+        "benefits": "Builds strength and focus, opens hip flexors",
+        "modifications": "Use wall for balance, hands on hips instead of up"
+      }
+    ],
+    "flow_variations": {
+      "round_2": "Add gentle twists in Warrior I, hold poses 30 seconds longer"
+    }
+  },
+  "cool_down": {
+    "duration": "2 minutes",
+    "purpose": "Integrate the practice and prepare for your day",
+    "poses": [
+      {
+        "name": "Child's Pose",
+        "duration": "1 minute",
+        "instructions": "Knees wide, big toes touching, fold forward resting forehead on mat. Arms can reach forward or rest by sides.",
+        "breathing": "Long, slow breaths, feeling completely supported",
+        "benefits": "Calms nervous system, gently stretches hips and back"
+      },
+      {
+        "name": "Savasana",
+        "duration": "1 minute",
+        "instructions": "Lie on back, arms at sides with palms up. Let your whole body completely relax into the earth.",
+        "breathing": "Natural breath, simply observe without controlling",
+        "benefits": "Integrates the practice, reduces stress, centers mind"
+      }
+    ]
+  },
+  "closing": {
+    "affirmation": "I am energized and ready for my day",
+    "intention": "Carry this sense of groundedness and energy with you",
+    "transition": "Slowly wiggle fingers and toes, gently open eyes"
+  },
+  "daily_tips": [
+    "Practice consistently for best results",
+    "Listen to your body and modify as needed",
+    "Set a positive intention for your day",
+    "Combine with meditation or breathwork for deeper benefits"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "session_info": {
+    "title": "15-Minute HIIT Energy Booster",
+    "duration": "15 minutes",
+    "difficulty": "Intermediate",
+    "equipment": ["None - bodyweight only"],
+    "description": "High-intensity interval training to boost energy, burn calories, and improve cardiovascular fitness"
+  },
+  "preparation": {
+    "space": "Area large enough to move freely in all directions",
+    "hydration": "Have water nearby and drink throughout workout",
+    "clothing": "Breathable, moisture-wicking athletic wear and supportive shoes",
+    "safety_notes": [
+      "Stop immediately if you feel chest pain, severe shortness of breath, or dizziness",
+      "Modify exercises as needed for your fitness level",
+      "Form is more important than speed",
+      "Listen to your body and rest when needed"
+    ]
+  },
+  "warm_up": {
+    "duration": "3 minutes",
+    "purpose": "Prepare muscles and cardiovascular system for high-intensity work",
+    "exercises": [
+      {
+        "name": "Arm Circles",
+        "duration": "30 seconds",
+        "instructions": "Stand with feet shoulder-width apart. Make large circles with arms, forward for 15 seconds, backward for 15 seconds.",
+        "intensity": "Light",
+        "benefits": "Warms shoulder joints and upper body"
+      },
+      {
+        "name": "Leg Swings",
+        "duration": "30 seconds",
+        "instructions": "Hold wall or chair for balance. Swing one leg forward and back 10 times, then side to side 10 times. Switch legs.",
+        "intensity": "Light to moderate",
+        "benefits": "Loosens hip joints and leg muscles"
+      },
+      {
+        "name": "Jumping Jacks",
+        "duration": "1 minute",
+        "instructions": "Jump feet apart while raising arms overhead, then jump feet together while lowering arms. Maintain steady pace.",
+        "intensity": "Moderate",
+        "breathing": "Breathe steadily, don't hold breath",
+        "modifications": "Step out to sides instead of jumping"
+      },
+      {
+        "name": "High Knees",
+        "duration": "1 minute",
+        "instructions": "March in place, bringing knees up toward chest as high as comfortable. Pump arms in running motion.",
+        "intensity": "Moderate",
+        "benefits": "Raises heart rate, warms leg muscles",
+        "modifications": "March with lower knee lifts"
+      }
+    ]
+  },
+  "main_workout": {
+    "duration": "10 minutes",
+    "structure": "4 rounds of 2.5 minutes each",
+    "work_time": "45 seconds",
+    "rest_time": "15 seconds",
+    "total_exercises": 12,
+    "rounds": [
+      {
+        "round": 1,
+        "focus": "Full body activation",
+        "exercises": [
+          {
+            "name": "Burpees",
+            "instructions": "Squat down, place hands on floor, jump back to plank, do push-up, jump feet back to squat, jump up with arms overhead.",
+            "target": "Full body, cardiovascular endurance",
+            "modifications": [
+              "Beginner: Step back to plank instead of jumping",
+              "Advanced: Add tuck jump at the top",
+              "No push-up: Skip the push-up portion"
+            ],
+            "form_cues": "Keep core tight, land softly, maintain control"
+          },
+          {
+            "name": "Mountain Climbers",
+            "instructions": "Start in plank position. Quickly alternate bringing knees toward chest as if running in place.",
+            "target": "Core, shoulders, cardiovascular",
+            "modifications": [
+              "Slower pace for beginners",
+              "Hands on elevated surface (chair, couch)",
+              "Step knees in instead of jumping"
+            ],
+            "form_cues": "Keep hips level, hands directly under shoulders"
+          },
+          {
+            "name": "Jump Squats",
+            "instructions": "Squat down with weight in heels, then explode up into a jump. Land softly and immediately go into next squat.",
+            "target": "Legs, glutes, power",
+            "modifications": [
+              "Regular squats without jumping",
+              "Pulse squats (small up-down movement)",
+              "Chair-assisted squats"
+            ],
+            "form_cues": "Chest up, knees track over toes, soft landing"
+          }
+        ]
+      },
+      {
+        "round": 2,
+        "focus": "Upper body and core strength",
+        "exercises": [
+          {
+            "name": "Push-up to T",
+            "instructions": "Do a push-up, then rotate to side plank position raising top arm to ceiling. Return to plank, repeat on other side.",
+            "target": "Chest, shoulders, core, stability",
+            "modifications": [
+              "Push-ups on knees",
+              "Hands on elevated surface",
+              "Skip the T rotation"
+            ],
+            "form_cues": "Straight line from head to heels, controlled rotation"
+          },
+          {
+            "name": "Reverse Lunges",
+            "instructions": "Step one foot back into lunge position, lower back knee toward ground, push through front heel to return. Alternate legs.",
+            "target": "Legs, glutes, balance",
+            "modifications": [
+              "Hold wall or chair for balance",
+              "Shorter range of motion",
+              "Static hold in lunge position"
+            ],
+            "form_cues": "Front knee over ankle, back knee toward floor"
+          },
+          {
+            "name": "Plank Jacks",
+            "instructions": "Hold plank position. Jump feet wide apart, then jump back together, like jumping jacks in plank position.",
+            "target": "Core, shoulders, cardiovascular",
+            "modifications": [
+              "Step feet out instead of jumping",
+              "Hands on elevated surface",
+              "Hold regular plank"
+            ],
+            "form_cues": "Keep hips level, core engaged throughout"
+          }
+        ]
+      }
+    ]
+  },
+  "cool_down": {
+    "duration": "2 minutes",
+    "purpose": "Gradually lower heart rate and begin recovery process",
+    "exercises": [
+      {
+        "name": "Walking in Place",
+        "duration": "1 minute",
+        "instructions": "Walk slowly in place, gradually slowing pace. Raise arms overhead and bring them down slowly.",
+        "breathing": "Deep, controlled breaths to normalize heart rate",
+        "purpose": "Gradual cardiovascular recovery"
+      },
+      {
+        "name": "Deep Breathing & Gentle Stretching",
+        "duration": "1 minute",
+        "instructions": "Place hands on chest and belly. Take slow, deep breaths. Gently roll shoulders and shake out arms and legs.",
+        "breathing": "4 counts in through nose, 4 counts out through mouth",
+        "purpose": "Activate recovery response, begin muscle relaxation"
+      }
+    ]
+  },
+  "post_workout": {
+    "hydration": "Drink water to replenish fluids lost through sweat",
+    "nutrition": "Consider a protein snack within 30 minutes if this was a morning workout",
+    "recovery": "Light stretching or walking throughout the day aids recovery",
+    "progress_tracking": "Note how you felt - energy level, which exercises were challenging"
+  },
+  "safety_reminders": [
+    "This is a high-intensity workout - build up gradually",
+    "Stop if you feel chest pain, dizziness, or nausea",
+    "Proper form prevents injury - slow down if form breaks down",
+    "Stay hydrated before, during, and after workout"
+  ],
+  "daily_tips": [
+    "Aim for 2-3 HIIT sessions per week with rest days between",
+    "Combine with strength training and flexibility work for complete fitness",
+    "Track your progress - you'll be amazed how quickly you improve",
+    "Fuel your body with nutritious foods to support your active lifestyle"
+  ]
+}

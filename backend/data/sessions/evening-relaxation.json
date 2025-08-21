@@ -1,0 +1,126 @@
+{
+  "session_info": {
+    "title": "Peaceful Evening Wind-Down",
+    "duration": "12 minutes",
+    "difficulty": "Beginner",
+    "equipment": ["Comfortable clothes", "Optional: pillow, blanket, or bolster"],
+    "description": "Gentle sequence to release the day's tension and prepare mind and body for restful sleep"
+  },
+  "preparation": {
+    "environment": "Dim lighting, quiet space, comfortable temperature",
+    "timing": "30-60 minutes before desired bedtime",
+    "mindset": "Give yourself permission to let go of the day completely",
+    "optional_additions": [
+      "Calming essential oils (lavender, chamomile)",
+      "Soft background music or nature sounds",
+      "Warm herbal tea beforehand",
+      "Comfortable blanket for warmth"
+    ]
+  },
+  "sequence": [
+    {
+      "section": "Transition Ritual",
+      "duration": "2 minutes",
+      "purpose": "Consciously shift from day mode to evening mode",
+      "activities": [
+        {
+          "name": "Three Cleansing Breaths",
+          "duration": "1 minute",
+          "instructions": "Take three deep breaths. With each exhale, consciously release the energy and concerns of the day. Imagine breathing out stress and breathing in peace.",
+          "breathing": "Inhale deeply through nose, pause, exhale completely through mouth",
+          "purpose": "Signal to nervous system that it's time to unwind"
+        },
+        {
+          "name": "Gratitude & Intention Setting",
+          "duration": "1 minute",
+          "instructions": "Place hand on heart. Think of three things from your day you're grateful for. Set intention to rest peacefully and wake refreshed.",
+          "benefits": "Shifts focus from stress to appreciation, promotes positive sleep thoughts"
+        }
+      ]
+    },
+    {
+      "section": "Gentle Movement",
+      "duration": "5 minutes",
+      "purpose": "Release physical tension accumulated throughout the day",
+      "poses": [
+        {
+          "name": "Seated Side Bend",
+          "duration": "1 minute each side",
+          "instructions": "Sit cross-legged or in chair. Reach right arm overhead and lean gently to the left, breathing into the right side. Hold and breathe, then switch sides.",
+          "breathing": "5 deep breaths each side, feeling expansion on the stretched side",
+          "benefits": "Releases tension in side body, opens ribs for deeper breathing"
+        },
+        {
+          "name": "Seated Gentle Twist",
+          "duration": "1 minute each side",
+          "instructions": "Place right hand behind you, left hand on right knee. Gently twist spine to the right, looking over right shoulder. Hold and breathe, then switch.",
+          "breathing": "Deepen twist slightly on each exhale",
+          "benefits": "Releases lower back tension, aids digestion"
+        },
+        {
+          "name": "Tabletop Hip Circles",
+          "duration": "1 minute",
+          "instructions": "Come to hands and knees. Slowly circle hips in both directions, moving with your breath and finding areas of tightness to gently release.",
+          "breathing": "Match movement to breath, exhale as you find tight spots",
+          "benefits": "Releases hip tension from sitting, prepares body for rest"
+        }
+      ]
+    },
+    {
+      "section": "Restorative Poses",
+      "duration": "4 minutes",
+      "purpose": "Deeply calm nervous system and prepare for sleep",
+      "poses": [
+        {
+          "name": "Supported Child's Pose",
+          "duration": "2 minutes",
+          "instructions": "Knees wide, big toes touching. If available, place pillow or bolster lengthwise and rest torso on it. Turn head to one side, switch halfway through.",
+          "breathing": "Long, slow breaths, feeling completely supported and safe",
+          "benefits": "Calms nervous system, relieves lower back, feeling of being held",
+          "modifications": "Use folded blanket instead of pillow, or sit back on heels"
+        },
+        {
+          "name": "Legs Up the Wall or Chair",
+          "duration": "2 minutes",
+          "instructions": "Lie on back with legs up against wall, or feet up on chair or couch. Arms rest by sides, palms up. Close eyes and surrender completely.",
+          "breathing": "Natural breath, focus on feeling of legs draining and heart calming",
+          "benefits": "Reduces swelling in legs, calms mind, gentle inversion effect",
+          "modifications": "Use pillows under lower back for comfort"
+        }
+      ]
+    },
+    {
+      "section": "Final Relaxation & Sleep Preparation",
+      "duration": "1 minute",
+      "purpose": "Complete the transition to sleep readiness",
+      "practice": {
+        "name": "Progressive Muscle Release",
+        "instructions": [
+          "Lie comfortably and close your eyes",
+          "Starting with your toes, consciously relax each part of your body",
+          "Move up through legs, hips, belly, chest, arms, shoulders, neck, face",
+          "With each body part, think 'let go' and feel it melting into relaxation",
+          "End by relaxing your mind, letting thoughts slow and fade"
+        ],
+        "benefits": "Systematic relaxation ensures no tension remains in the body"
+      }
+    }
+  ],
+  "sleep_transition": {
+    "bedtime_routine": "Continue this peaceful feeling as you prepare for bed",
+    "final_thoughts": "If worries arise, acknowledge them and set them aside for tomorrow",
+    "breathing": "Continue slow, gentle breathing as you fall asleep",
+    "affirmation": "I release this day with gratitude and welcome peaceful rest"
+  },
+  "troubleshooting": {
+    "racing_mind": "Focus on the physical sensations of relaxation rather than trying to stop thoughts",
+    "physical_discomfort": "Adjust position as needed - comfort is more important than 'perfect' form",
+    "time_constraints": "Even 5 minutes of this practice is beneficial - adapt to your schedule"
+  },
+  "daily_tips": [
+    "Consistency matters more than duration - even 5 minutes helps",
+    "Create a tech-free bedroom environment for better sleep",
+    "Keep the room cool and dark for optimal sleep conditions",
+    "This practice becomes more effective with repetition - be patient with yourself"
+  ]
+}
