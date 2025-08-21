@@ -1,0 +1,89 @@
+{
+  "session_info": {
+    "title": "Morning Energizing Breathwork",
+    "duration": "8 minutes",
+    "difficulty": "Beginner",
+    "equipment": ["None"],
+    "description": "Breathing techniques to boost energy and mental clarity"
+  },
+  "preparation": {
+    "posture": "Sit tall or stand with spine straight",
+    "hand_position": "Rest hands on knees or in lap",
+    "eyes": "Closed or softly focused downward",
+    "cautions": [
+      "Stop if you feel dizzy",
+      "Breathe naturally between exercises",
+      "Don't force the breath"
+    ]
+  },
+  "techniques": [
+    {
+      "name": "Three-Part Breath (Warm-up)",
+      "duration": "2 minutes",
+      "instructions": [
+        "Place one hand on chest, one on belly",
+        "Breathe into belly first (bottom hand rises)",
+        "Continue breath into ribs (chest expands)",
+        "Finish breath into upper chest (top hand rises)",
+        "Exhale in reverse order: chest, ribs, belly"
+      ],
+      "benefits": "Increases lung capacity, calms nervous system"
+    },
+    {
+      "name": "Bellows Breath (Bhastrika)",
+      "duration": "3 minutes",
+      "rounds": 3,
+      "instructions": [
+        "Take 10 rapid, strong breaths through nose",
+        "Pump belly in and out forcefully",
+        "After 10 breaths, take one deep breath in",
+        "Hold for 10 seconds",
+        "Exhale slowly and completely",
+        "Rest with natural breath for 30 seconds",
+        "Repeat for 3 rounds total"
+      ],
+      "benefits": "Increases energy, mental alertness, circulation",
+      "modifications": "Start with 5 breaths if new to this technique"
+    },
+    {
+      "name": "Alternate Nostril Breathing",
+      "duration": "2 minutes",
+      "instructions": [
+        "Use right thumb to close right nostril",
+        "Inhale through left nostril",
+        "Close left nostril with ring finger",
+        "Release right nostril, exhale right",
+        "Inhale right nostril",
+        "Close right, release left, exhale left",
+        "This completes one round - continue for 2 minutes"
+      ],
+      "benefits": "Balances nervous system, improves focus"
+    },
+    {
+      "name": "Energizing Retention",
+      "duration": "1 minute",
+      "instructions": [
+        "Inhale deeply for 4 counts",
+        "Hold breath for 4 counts",
+        "Exhale for 4 counts",
+        "Hold empty for 2 counts",
+        "Repeat this 4-4-4-2 pattern"
+      ],
+      "benefits": "Builds lung capacity, increases energy"
+    }
+  ],
+  "integration": {
+    "duration": "30 seconds",
+    "instructions": [
+      "Return to natural breathing",
+      "Notice sensations in your body",
+      "Feel the energy and alertness you've created",
+      "Set intention to carry this energy into your day"
+    ]
+  },
+  "daily_tips": [
+    "Practice on empty stomach for best results",
+    "Consistent daily practice builds benefits",
+    "Start slowly and build intensity over time"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "session_info": {
+    "title": "10-Minute Stress Relief Meditation",
+    "duration": "10 minutes",
+    "difficulty": "Beginner",
+    "equipment": ["Comfortable seat or cushion"],
+    "description": "Release tension and find calm with guided mindfulness"
+  },
+  "preparation": {
+    "duration": "1 minute",
+    "instructions": [
+      "Find a comfortable seated position",
+      "Close your eyes or soften your gaze",
+      "Place hands gently on your knees or in your lap",
+      "Allow your body to settle"
+    ]
+  },
+  "phases": [
+    {
+      "phase": "Arrival",
+      "duration": "2 minutes",
+      "instructions": [
+        "Begin to notice your breath without changing it",
+        "Feel your body in contact with your seat",
+        "Notice any areas of tension or stress",
+        "Acknowledge these sensations without judgment"
+      ],
+      "guidance": "If your mind wanders, gently return attention to your breath"
+    },
+    {
+      "phase": "Breath Awareness",
+      "duration": "3 minutes",
+      "instructions": [
+        "Now begin to deepen your breath slightly",
+        "Inhale slowly through your nose for 4 counts",
+        "Hold gently for 2 counts",
+        "Exhale slowly through your mouth for 6 counts",
+        "Continue this rhythm: 4-2-6"
+      ],
+      "benefits": "Activates relaxation response, calms nervous system"
+    },
+    {
+      "phase": "Body Scan Release",
+      "duration": "3 minutes",
+      "instructions": [
+        "Bring attention to the top of your head",
+        "Slowly scan down through your body",
+        "Notice: forehead, jaw, neck, shoulders",
+        "Continue: chest, arms, stomach, hips, legs",
+        "With each exhale, release any tension you find"
+      ],
+      "visualization": "Imagine stress leaving your body like dark clouds dissolving"
+    },
+    {
+      "phase": "Integration",
+      "duration": "1 minute",
+      "instructions": [
+        "Return to natural breathing",
+        "Notice how your body feels now",
+        "Set an intention for peace to continue",
+        "When ready, gently open your eyes"
+      ]
+    }
+  ],
+  "closing_affirmation": "I am calm, centered, and at peace",
+  "tips": [
+    "Practice daily for best results",
+    "Use this meditation anytime you feel overwhelmed",
+    "Remember: there's no perfect way to meditate"
+  ]
+}

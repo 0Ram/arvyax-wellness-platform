@@ -1,0 +1,90 @@
+{
+  "session_info": {
+    "title": "Energizing Morning Yoga Flow",
+    "duration": "15 minutes",
+    "difficulty": "Beginner",
+    "equipment": ["Yoga mat"],
+    "description": "Start your day with gentle movement and mindful breathing"
+  },
+  "warm_up": {
+    "duration": "3 minutes",
+    "instructions": "Begin in a comfortable seated position, focus on your breath",
+    "poses": [
+      {
+        "name": "Seated Mountain Pose",
+        "duration": "1 minute",
+        "instructions": "Sit tall, spine straight, hands on knees. Take 5 deep breaths.",
+        "breathing": "Inhale for 4 counts, exhale for 4 counts"
+      },
+      {
+        "name": "Neck Rolls",
+        "duration": "1 minute",
+        "instructions": "Gently roll your neck in slow circles, 5 times each direction",
+        "breathing": "Natural breath"
+      },
+      {
+        "name": "Shoulder Rolls",
+        "duration": "1 minute",
+        "instructions": "Roll shoulders back and down, release tension",
+        "breathing": "Deep inhales as you lift, exhales as you release"
+      }
+    ]
+  },
+  "main_flow": {
+    "duration": "10 minutes",
+    "rounds": 2,
+    "poses": [
+      {
+        "name": "Cat-Cow Pose",
+        "duration": "1 minute",
+        "instructions": "On hands and knees, arch and round your spine slowly",
+        "breathing": "Inhale to arch (Cow), exhale to round (Cat)",
+        "benefits": "Warms spine, improves flexibility"
+      },
+      {
+        "name": "Downward Facing Dog",
+        "duration": "1 minute",
+        "instructions": "Tuck toes, lift hips up and back, make inverted V shape",
+        "breathing": "5 deep breaths, focus on lengthening spine",
+        "modifications": "Bend knees if hamstrings are tight"
+      },
+      {
+        "name": "Forward Fold",
+        "duration": "30 seconds",
+        "instructions": "Step feet to hands, hang forward with soft knees",
+        "breathing": "Let breath be natural, release tension"
+      },
+      {
+        "name": "Mountain Pose",
+        "duration": "30 seconds",
+        "instructions": "Roll up slowly to standing, arms at sides",
+        "breathing": "3 deep breaths, feel grounded"
+      },
+      {
+        "name": "Warrior I",
+        "duration": "1 minute each side",
+        "instructions": "Step left foot back, bend right knee, arms up",
+        "breathing": "Strong, steady breaths",
+        "benefits": "Builds strength and focus"
+      }
+    ]
+  },
+  "cool_down": {
+    "duration": "2 minutes",
+    "poses": [
+      {
+        "name": "Child's Pose",
+        "duration": "1 minute",
+        "instructions": "Knees wide, big toes touch, fold forward and rest",
+        "breathing": "Long, slow breaths"
+      },
+      {
+        "name": "Savasana",
+        "duration": "1 minute",
+        "instructions": "Lie on back, arms at sides, completely relax",
+        "breathing": "Natural breath, let everything go"
+      }
+    ]
+  },
+  "affirmation": "I am energized and ready for my day"
+}

@@ -1,0 +1,89 @@
+{
+  "session_info": {
+    "title": "Peaceful Evening Wind-Down",
+    "duration": "12 minutes",
+    "difficulty": "Beginner",
+    "equipment": ["Comfortable clothes", "Optional: pillow or bolster"],
+    "description": "Gentle sequence to release the day and prepare for rest"
+  },
+  "setting": {
+    "environment": "Dim lighting, quiet space",
+    "optional_additions": ["Calming music", "Essential oils", "Candles"]
+  },
+  "sequence": [
+    {
+      "section": "Transition",
+      "duration": "2 minutes",
+      "activities": [
+        {
+          "name": "Three Cleansing Breaths",
+          "instructions": "Inhale deeply through nose, exhale completely through mouth",
+          "repetitions": 3,
+          "purpose": "Release the energy of the day"
+        },
+        {
+          "name": "Intention Setting",
+          "instructions": "Place hand on heart, set intention to let go and rest",
+          "duration": "1 minute"
+        }
+      ]
+    },
+    {
+      "section": "Gentle Movement",
+      "duration": "5 minutes",
+      "poses": [
+        {
+          "name": "Seated Side Bend",
+          "duration": "1 minute each side",
+          "instructions": "Sit cross-legged, reach one arm over head, lean gently",
+          "breathing": "5 breaths each side"
+        },
+        {
+          "name": "Seated Twist",
+          "duration": "1 minute each side",
+          "instructions": "Hand behind you, gently twist spine",
+          "breathing": "Deepen twist on exhales"
+        },
+        {
+          "name": "Tabletop Hip Circles",
+          "duration": "1 minute",
+          "instructions": "On hands and knees, slowly circle hips",
+          "breathing": "Match movement to breath"
+        }
+      ]
+    },
+    {
+      "section": "Restorative Poses",
+      "duration": "4 minutes",
+      "poses": [
+        {
+          "name": "Supported Child's Pose",
+          "duration": "2 minutes",
+          "instructions": "Knees wide, pillow under torso, turn head to one side",
+          "benefits": "Calms nervous system, relieves lower back"
+        },
+        {
+          "name": "Legs Up the Wall",
+          "duration": "2 minutes",
+          "instructions": "Lie on back, legs up wall or chair",
+          "benefits": "Reduces swelling, calms mind",
+          "modifications": "Legs on bed or couch"
+        }
+      ]
+    },
+    {
+      "section": "Final Relaxation",
+      "duration": "1 minute",
+      "practice": {
+        "name": "Gratitude Practice",
+        "instructions": [
+          "Think of three things from your day you're grateful for",
+          "Feel appreciation in your heart",
+          "Send yourself loving-kindness: 'May I rest peacefully'"
+        ]
+      }
+    }
+  ],
+  "closing": "When ready, slowly transition to your bedtime routine",
+  "sleep_tip": "Keep the peaceful feeling as you prepare for sleep"
+}

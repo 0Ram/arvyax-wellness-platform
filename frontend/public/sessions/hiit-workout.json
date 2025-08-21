@@ -1,0 +1,112 @@
+{
+  "session_info": {
+    "title": "15-Minute HIIT Energy Booster",
+    "duration": "15 minutes",
+    "difficulty": "Intermediate",
+    "equipment": ["None - bodyweight only"],
+    "description": "High-intensity workout to boost energy and burn calories"
+  },
+  "warm_up": {
+    "duration": "3 minutes",
+    "exercises": [
+      {
+        "name": "Arm Circles",
+        "duration": "30 seconds",
+        "instructions": "Large circles forward, then backward",
+        "intensity": "Light"
+      },
+      {
+        "name": "Leg Swings",
+        "duration": "30 seconds",
+        "instructions": "Hold wall, swing each leg front to back",
+        "intensity": "Light"
+      },
+      {
+        "name": "Jumping Jacks",
+        "duration": "1 minute",
+        "instructions": "Moderate pace, focus on form",
+        "intensity": "Moderate"
+      },
+      {
+        "name": "High Knees",
+        "duration": "1 minute",
+        "instructions": "Bring knees up toward chest",
+        "intensity": "Moderate"
+      }
+    ]
+  },
+  "main_workout": {
+    "duration": "10 minutes",
+    "structure": "4 rounds of 2.5 minutes each",
+    "work_time": "45 seconds",
+    "rest_time": "15 seconds",
+    "rounds": [
+      {
+        "round": 1,
+        "exercises": [
+          {
+            "name": "Burpees",
+            "instructions": "Squat, jump back to plank, push-up, jump forward, jump up",
+            "modifications": "Step back instead of jumping",
+            "target": "Full body"
+          },
+          {
+            "name": "Mountain Climbers",
+            "instructions": "Plank position, alternate bringing knees to chest quickly",
+            "modifications": "Slower pace, hands on elevated surface",
+            "target": "Core, cardio"
+          },
+          {
+            "name": "Jump Squats",
+            "instructions": "Squat down, explode up into jump, land softly",
+            "modifications": "Regular squats without jump",
+            "target": "Legs, glutes"
+          }
+        ]
+      },
+      {
+        "round": 2,
+        "exercises": [
+          {
+            "name": "Push-up to T",
+            "instructions": "Push-up, rotate to side plank, alternate sides",
+            "modifications": "Push-ups on knees",
+            "target": "Chest, core, shoulders"
+          },
+          {
+            "name": "Reverse Lunges",
+            "instructions": "Step back into lunge, alternate legs",
+            "modifications": "Hold wall for balance",
+            "target": "Legs, glutes, balance"
+          },
+          {
+            "name": "Plank Jacks",
+            "instructions": "Plank position, jump feet wide and narrow",
+            "modifications": "Step feet out instead of jumping",
+            "target": "Core, shoulders"
+          }
+        ]
+      }
+    ]
+  },
+  "cool_down": {
+    "duration": "2 minutes",
+    "exercises": [
+      {
+        "name": "Walking in Place",
+        "duration": "1 minute",
+        "instructions": "Slow pace, bring heart rate down"
+      },
+      {
+        "name": "Deep Breathing",
+        "duration": "1 minute",
+        "instructions": "4 counts in, 4 counts out, hands on chest"
+      }
+    ]
+  },
+  "safety_notes": [
+    "Stop if you feel dizzy or unwell",
+    "Modify exercises as needed for your fitness level",
+    "Stay hydrated throughout the workout"
+  ]
+}
